@@ -1,5 +1,7 @@
-<img width="476" alt="MBA JPEG" src="https://github.com/FlakysB/FLIT_internship_projects/assets/138071820/e20a155e-9ae6-4175-9166-de3f559b39f0">
 # MARKET BASKET ANALSIS FOR E-COMMERCE
+
+<img width="476" alt="MBA JPEG" src="https://github.com/FlakysB/FLIT_internship_projects/assets/138071820/e20a155e-9ae6-4175-9166-de3f559b39f0">
+
 # TASK
 To perform market basket analysis to uncover patterns in customer purchasing behavior. By identifying which products  tend  to  be  bought  together, 
 to help e-commerce company make informed  decisions  to  improve  sales  and  customer satisfaction.
